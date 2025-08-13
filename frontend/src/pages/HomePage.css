@@ -1,0 +1,5 @@
+.note-card-hidden{
+    opacity:100;
+    transform:translateY(0px);
+    will-change: opacity, transform;
+}
