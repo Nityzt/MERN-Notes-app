@@ -188,9 +188,9 @@ mern-notes-app/
 - Render for seamless deployment
 - The amazing open-source community
 
-## 📧 Contact
+## 📧 Contact Me
 
-Your Name - [nitvfx@gmail.com](mailto:nitvfx@gmail.com)
+[nitvfx@gmail.com](mailto:nitvfx@gmail.com)
 
 ---
 
