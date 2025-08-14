@@ -4,7 +4,7 @@ import { Link } from 'react-router'
 import { toast } from 'react-hot-toast'
 import { formatDate } from '../lib/utils'
 import api from '../lib/axios'
-import '../Pages/HomePage.css'
+import './Pages/HomePage.css'
 
 
 const NoteCard = ({note, onDeleteSucess,className=""}) => {
