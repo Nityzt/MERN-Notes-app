@@ -11,6 +11,3 @@ backend/package-lock.json
 
 frontend/node_modules
 frontend/package-lock.json
-
-
-PORT = 3000
